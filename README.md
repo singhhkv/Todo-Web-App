@@ -153,5 +153,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <div align="center">
-  <p>Built with ❤️ by <b>Antigravity</b></p>
+  <p>Built by <b>Karanveer Singh</b></p>
 </div>
