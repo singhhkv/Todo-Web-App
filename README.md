@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>📝 Premium To Do App</h1>
+  <h1>📝 To Do App</h1>
   
   <p>
     A stunning, full-stack task management application featuring a modern <b>Glassmorphism UI</b>, 
@@ -66,7 +66,7 @@ Follow these steps to set up the project locally.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/singhhkv/todo-app.git
 cd todo-app
 ```
 
